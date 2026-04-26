@@ -23,20 +23,27 @@ An IoT-based crash detection and emergency response system that integrates embed
 - `docs/` → Documentation and system visuals  
 
 
-## App UI
+<h2>App UI</h2>
 
-<p>
-  ** Home Screen **
-  <img src="docs/images/home.png" width="300"/>
+<table>
+<tr>
+<td align="center">
+<b>Home Screen</b><br>
+<img src="docs/images/home.png" width="250"/>
+</td>
 
- 
-  ** Alert Notification **
-  <img src="docs/images/alert.png" width="300"/>
+<td align="center">
+<b>Crash Alert</b><br>
+<img src="docs/images/alert.png" width="250"/>
+</td>
 
-  
-  ** dummy crash Logs **
-  <img src="docs/images/test_Records.png" width="300"/>
-</p>  
+<td align="center">
+<b>Dummy records</b><br>
+<img src="docs/images/test_records.png" width="250"/>
+</td>
+</tr>
+</table>
+
 
 ## System Architecture
 The system uses an ESP32 with motion sensors to continuously monitor movement. Upon detecting abnormal motion patterns, the device communicates with a backend server via Bluetooth Classic or network APIs. The backend processes the data and triggers emergency alerts, including location sharing through the mobile application.
