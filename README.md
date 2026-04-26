@@ -10,7 +10,7 @@ An IoT-based crash detection and emergency response system that integrates embed
 - Backend processing for handling crash events and notifications  
 
 ## Tech Stack
-- **chatbot Backend:** Python, FastAPI  
+- **chatbot Backend:** Python, Flak
 - **IoT Hardware:** ESP32, MPU6050  
 - **Communication:** Bluetooth Classic, HTTP APIs  
 - **Mobile App:** MIT App Inventor (Kotlin for future improvement) 
