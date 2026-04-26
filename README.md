@@ -22,14 +22,13 @@ An IoT-based crash detection and emergency response system that integrates embed
 - `esp32_code/` → Microcontroller code for crash detection  
 - `docs/` → Documentation and system visuals  
 
-## App UI
 
 ## App UI
 
 <p align="center">
   <img src="docs/images/home.png" width="300"/>
   <img src="docs/images/alert.png" width="300"/>
-  <img src="docs/images/location.png" width="300"/>
+  <img src="docs/images/test_Records.png" width="300"/>
 </p>  
 
 ## System Architecture
