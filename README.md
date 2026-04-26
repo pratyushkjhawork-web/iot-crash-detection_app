@@ -25,11 +25,15 @@ An IoT-based crash detection and emergency response system that integrates embed
 
 ## App UI
 
-<p align="center">
+<p>
   ** Home Screen **
   <img src="docs/images/home.png" width="300"/>
+
+ 
   ** Alert Notification **
   <img src="docs/images/alert.png" width="300"/>
+
+  
   ** dummy crash Logs **
   <img src="docs/images/test_Records.png" width="300"/>
 </p>  
