@@ -47,6 +47,11 @@ An IoT-based crash detection and emergency response system that integrates embed
 
 ## System Architecture
 The system uses an ESP32 with motion sensors to continuously monitor movement. Upon detecting abnormal motion patterns, the device communicates with a backend server via Bluetooth Classic or network APIs. The backend processes the data and triggers emergency alerts, including location sharing through the mobile application.
+The following diagram illustrates the end-to-end system flow and component interaction.
+
+<p align="center">
+  <img src="docs/images/SystemArch.png" width="100%"/>
+</p>
 
 ## How It Works
 1. MPU6050 sensor detects sudden motion or impact  
