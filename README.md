@@ -41,6 +41,11 @@ An IoT-based crash detection and emergency response system that integrates embed
 <b>Dummy records</b><br>
 <img src="docs/images/test_Records.png" width="250"/>
 </td>
+
+<td align="center">
+<b>Dashboard</b><br>
+<img src="docs/images/appDashboard.png" width="250"/>
+</td>
 </tr>
 </table>
 
