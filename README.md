@@ -50,7 +50,7 @@ The system uses an ESP32 with motion sensors to continuously monitor movement. U
 The following diagram illustrates the end-to-end system flow and component interaction.
 
 <p align="center">
-  <img src="docs/images/SystemArch.png" width="100%"/>
+  <img src="docs/images/SystemArch.png" style="max-width:100%; height:auto;"/>
 </p>
 
 ## How It Works
